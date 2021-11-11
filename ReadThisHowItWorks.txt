@@ -1,1 +1,1 @@
-Use github.com/JokeOs as github.com/Joke/joke.html
+Use github.com/JokeOs as https://momle.github.io/JokeOs/joke.html
