@@ -1,0 +1,1 @@
+Use github.com/JokeOs as github.com/Joke/joke.html
